@@ -1,0 +1,604 @@
+{
+  "Tlcu": [
+    {
+      "Title": "Software Engineer (PHP, Laravel)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Sourceability",
+      "Url": "https://www.indeed.com/cmp/Sourceability/jobs/Software-Engineer-1baa3aaac68a459b?vjs=3"
+    },
+    {
+      "Title": "Backend Engineer",
+      "Location": "Remote",
+      "Company": "Healthify.us",
+      "Url": "http://www.indeed.com/viewjob?jk=b17c354e3cabe4f1"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "San Francisco, CA 94108",
+      "Company": "MuleSoft",
+      "Url": "http://www.indeed.com/viewjob?jk=8cfd54301d909668"
+    },
+    {
+      "Title": "Java Developer (Consumer Web)",
+      "Location": "San Francisco, CA",
+      "Company": "Intechriti",
+      "Url": "http://www.indeed.com/viewjob?jk=38123d02e67210d9"
+    },
+    {
+      "Title": "Software / Sr. Software Engineer",
+      "Location": "Irvine, CA",
+      "Company": "Learfield",
+      "Url": "https://www.indeed.com/viewjob?jk=a741ef8b463aff95\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "Irvine, CA 92614",
+      "Company": "KakaoGames",
+      "Url": "https://www.indeed.com/viewjob?jk=0d245a4665d330e2\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Backend Engineer (Seller ClubNetwork Manager)",
+      "Location": "Remote",
+      "Company": "Tradeshift",
+      "Url": "https://www.indeed.com/viewjob?jk=830414c7fcd79650\u0026from=recjobs\u0026vjtk=1d0vtotigbr0h800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Lake Forest, CA",
+      "Company": "SimInsights",
+      "Url": "https://www.indeed.com/viewjob?jk=84909a2d2d6aeeaf\u0026from=recjobs\u0026vjtk=1d1spls9sbs55800"
+    },
+    {
+      "Title": "JAVA DEVELOPER",
+      "Location": "Irvine, CA",
+      "Company": "Ace Technologies",
+      "Url": "https://www.indeed.com/viewjob?jk=6e7d58a9d6fe80f9\u0026from=recjobs\u0026vjtk=1d1spnmbcbs56800"
+    },
+    {
+      "Title": "Java Technical Lead",
+      "Location": "Costa Mesa, CA",
+      "Company": "MASM",
+      "Url": "https://www.indeed.com/viewjob?jk=b903b77979519ee1\u0026from=recjobs\u0026vjtk=1d1spnva5bs56800"
+    },
+    {
+      "Title": "85$ per hour Java lead",
+      "Location": "Irvine, CA",
+      "Company": "ES Tech Corp",
+      "Url": "https://www.indeed.com/viewjob?jk=1d23c24778b73ceb\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": "Senior Software Engineer, Infotainment",
+      "Location": "Irvine, CA",
+      "Company": "Karma Automotive",
+      "Url": "https://www.indeed.com/viewjob?jk=db60b184de906f7a\u0026from=recjobs\u0026vjtk=1d1spq2h1bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer",
+      "Location": "Lake Forest, CA 92630",
+      "Company": "Panasonic Avionics",
+      "Url": "https://www.indeed.com/viewjob?jk=e5d02c6c09f8255c\u0026from=recjobs\u0026vjtk=1d1spppbsbs55800"
+    },
+    {
+      "Title": "Sr Software Engineer",
+      "Location": "Irvine, CA 92618",
+      "Company": "Parker Hannifin Corporation",
+      "Url": "https://www.indeed.com/viewjob?jk=5b935be46b5e0f9b\u0026from=recjobs\u0026vjtk=1d1sppen0bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer (Java Enterprise Systems)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Ephesoft",
+      "Url": "https://www.indeed.com/viewjob?jk=ddad3cedd3541de3\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": ".Net / C# Applications Developer",
+      "Location": "Irvine, CA 92614",
+      "Company": "EDI Health Group - DentalXChange",
+      "Url": "https://www.indeed.com/viewjob?jk=831a6178fd244b06\u0026from=recjobs\u0026vjtk=1d1sprccvbs56800"
+    },
+    {
+      "Title": ".Net Developer",
+      "Location": "Irvine, CA",
+      "Company": "Arthur Lawrence",
+      "Url": "https://www.indeed.com/viewjob?jk=718ce1910c1a6c5e\u0026from=recjobs\u0026vjtk=1d1spqtbmbs56800"
+    },
+    {
+      "Title": "C# Software Developer",
+      "Location": "Irvine, CA",
+      "Company": "CBS Northstar",
+      "Url": "https://www.indeed.com/viewjob?jk=9d6032516ab2640e\u0026from=recjobs\u0026vjtk=1d1sprn68bs56800"
+    },
+    {
+      "Title": "Software Developer / Analyst",
+      "Location": "Orange, CA",
+      "Company": "Ashunya.com",
+      "Url": "https://www.indeed.com/viewjob?jk=9b98e618299c1064\u0026from=recjobs\u0026vjtk=1d1spsl7ibs55800"
+    },
+    {
+      "Title": "Transportation Engineer with Development Services Focus",
+      "Location": "Orange, CA",
+      "Company": "Kittelson \u0026 Associates",
+      "Url": "https://www.indeed.com/viewjob?jk=73ed98571b74e05f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Software Developer",
+      "Location": "Orange, CA",
+      "Company": "American Advisors Group",
+      "Url": "https://www.indeed.com/viewjob?jk=5fef728366010188\u0026from=recjobs\u0026vjtk=1d1sps9ajbs56800"
+    },
+    {
+      "Title": "Software Engineer1779",
+      "Location": "Irvine, CA 92617",
+      "Company": "Toshiba America Electronic Components",
+      "Url": "https://www.indeed.com/viewjob?jk=c747ee827b9c976f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Java developer with MyBatis",
+      "Location": "Philadelphia, PA",
+      "Company": "SWIFT SOLUTIONS INC",
+      "Url": "https://www.indeed.com/viewjob?jk=36fda2403b89775c\u0026from=recjobs\u0026vjtk=1d1spug1cbs55800"
+    },
+    {
+      "Title": "Java developer",
+      "Location": "Philadelphia, PA",
+      "Company": "Cognizant",
+      "Url": "https://www.indeed.com/viewjob?jk=c8de3ced04059c0a\u0026from=recjobs\u0026vjtk=1d1spuko8bs56800"
+    },
+    {
+      "Title": "Java Developer (Consumer Web)",
+      "Location": "San Francisco, CA",
+      "Company": "Intechriti",
+      "Url": "http://www.indeed.com/viewjob?jk=38123d02e67210d9"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Irvine, CA",
+      "Company": "Perficient",
+      "Url": "https://www.indeed.com/viewjob?jk=ed55ab9fac6a8f7e\u0026from=recjobs\u0026vjtk=1d1spld9fbs56800"
+    },
+    {
+      "Title": "Software Engineer (PHP, Laravel)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Sourceability",
+      "Url": "https://www.indeed.com/cmp/Sourceability/jobs/Software-Engineer-1baa3aaac68a459b?vjs=3"
+    },
+    {
+      "Title": "Backend Engineer",
+      "Location": "Remote",
+      "Company": "Healthify.us",
+      "Url": "http://www.indeed.com/viewjob?jk=b17c354e3cabe4f1"
+    },
+    {
+      "Title": "Software / Sr. Software Engineer",
+      "Location": "Irvine, CA",
+      "Company": "Learfield",
+      "Url": "https://www.indeed.com/viewjob?jk=a741ef8b463aff95\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "San Francisco, CA 94108",
+      "Company": "MuleSoft",
+      "Url": "http://www.indeed.com/viewjob?jk=8cfd54301d909668"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "Irvine, CA 92614",
+      "Company": "KakaoGames",
+      "Url": "https://www.indeed.com/viewjob?jk=0d245a4665d330e2\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Backend Engineer (Seller ClubNetwork Manager)",
+      "Location": "Remote",
+      "Company": "Tradeshift",
+      "Url": "https://www.indeed.com/viewjob?jk=830414c7fcd79650\u0026from=recjobs\u0026vjtk=1d0vtotigbr0h800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Irvine, CA",
+      "Company": "Perficient",
+      "Url": "https://www.indeed.com/viewjob?jk=ed55ab9fac6a8f7e\u0026from=recjobs\u0026vjtk=1d1spld9fbs56800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Lake Forest, CA",
+      "Company": "SimInsights",
+      "Url": "https://www.indeed.com/viewjob?jk=84909a2d2d6aeeaf\u0026from=recjobs\u0026vjtk=1d1spls9sbs55800"
+    },
+    {
+      "Title": "JAVA DEVELOPER",
+      "Location": "Irvine, CA",
+      "Company": "Ace Technologies",
+      "Url": "https://www.indeed.com/viewjob?jk=6e7d58a9d6fe80f9\u0026from=recjobs\u0026vjtk=1d1spnmbcbs56800"
+    },
+    {
+      "Title": "Java Technical Lead",
+      "Location": "Costa Mesa, CA",
+      "Company": "MASM",
+      "Url": "https://www.indeed.com/viewjob?jk=b903b77979519ee1\u0026from=recjobs\u0026vjtk=1d1spnva5bs56800"
+    },
+    {
+      "Title": "Senior Software Engineer, Infotainment",
+      "Location": "Irvine, CA",
+      "Company": "Karma Automotive",
+      "Url": "https://www.indeed.com/viewjob?jk=db60b184de906f7a\u0026from=recjobs\u0026vjtk=1d1spq2h1bs55800"
+    },
+    {
+      "Title": "85$ per hour Java lead",
+      "Location": "Irvine, CA",
+      "Company": "ES Tech Corp",
+      "Url": "https://www.indeed.com/viewjob?jk=1d23c24778b73ceb\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": "Senior Software Engineer",
+      "Location": "Lake Forest, CA 92630",
+      "Company": "Panasonic Avionics",
+      "Url": "https://www.indeed.com/viewjob?jk=e5d02c6c09f8255c\u0026from=recjobs\u0026vjtk=1d1spppbsbs55800"
+    },
+    {
+      "Title": "Senior Software Engineer (Java Enterprise Systems)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Ephesoft",
+      "Url": "https://www.indeed.com/viewjob?jk=ddad3cedd3541de3\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": ".Net Developer",
+      "Location": "Irvine, CA",
+      "Company": "Arthur Lawrence",
+      "Url": "https://www.indeed.com/viewjob?jk=718ce1910c1a6c5e\u0026from=recjobs\u0026vjtk=1d1spqtbmbs56800"
+    },
+    {
+      "Title": "Sr Software Engineer",
+      "Location": "Irvine, CA 92618",
+      "Company": "Parker Hannifin Corporation",
+      "Url": "https://www.indeed.com/viewjob?jk=5b935be46b5e0f9b\u0026from=recjobs\u0026vjtk=1d1sppen0bs55800"
+    },
+    {
+      "Title": ".Net / C# Applications Developer",
+      "Location": "Irvine, CA 92614",
+      "Company": "EDI Health Group - DentalXChange",
+      "Url": "https://www.indeed.com/viewjob?jk=831a6178fd244b06\u0026from=recjobs\u0026vjtk=1d1sprccvbs56800"
+    },
+    {
+      "Title": "C# Software Developer",
+      "Location": "Irvine, CA",
+      "Company": "CBS Northstar",
+      "Url": "https://www.indeed.com/viewjob?jk=9d6032516ab2640e\u0026from=recjobs\u0026vjtk=1d1sprn68bs56800"
+    },
+    {
+      "Title": "Software Developer",
+      "Location": "Orange, CA",
+      "Company": "American Advisors Group",
+      "Url": "https://www.indeed.com/viewjob?jk=5fef728366010188\u0026from=recjobs\u0026vjtk=1d1sps9ajbs56800"
+    },
+    {
+      "Title": "Software Developer / Analyst",
+      "Location": "Orange, CA",
+      "Company": "Ashunya.com",
+      "Url": "https://www.indeed.com/viewjob?jk=9b98e618299c1064\u0026from=recjobs\u0026vjtk=1d1spsl7ibs55800"
+    },
+    {
+      "Title": "Transportation Engineer with Development Services Focus",
+      "Location": "Orange, CA",
+      "Company": "Kittelson \u0026 Associates",
+      "Url": "https://www.indeed.com/viewjob?jk=73ed98571b74e05f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Software Engineer1779",
+      "Location": "Irvine, CA 92617",
+      "Company": "Toshiba America Electronic Components",
+      "Url": "https://www.indeed.com/viewjob?jk=c747ee827b9c976f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Java developer with MyBatis",
+      "Location": "Philadelphia, PA",
+      "Company": "SWIFT SOLUTIONS INC",
+      "Url": "https://www.indeed.com/viewjob?jk=36fda2403b89775c\u0026from=recjobs\u0026vjtk=1d1spug1cbs55800"
+    },
+    {
+      "Title": "Java developer",
+      "Location": "Philadelphia, PA",
+      "Company": "Cognizant",
+      "Url": "https://www.indeed.com/viewjob?jk=c8de3ced04059c0a\u0026from=recjobs\u0026vjtk=1d1spuko8bs56800"
+    },
+    {
+      "Title": "Java Developer (Consumer Web)",
+      "Location": "San Francisco, CA",
+      "Company": "Intechriti",
+      "Url": "http://www.indeed.com/viewjob?jk=38123d02e67210d9"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "San Francisco, CA 94108",
+      "Company": "MuleSoft",
+      "Url": "http://www.indeed.com/viewjob?jk=8cfd54301d909668"
+    },
+    {
+      "Title": "Software Engineer (PHP, Laravel)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Sourceability",
+      "Url": "https://www.indeed.com/cmp/Sourceability/jobs/Software-Engineer-1baa3aaac68a459b?vjs=3"
+    },
+    {
+      "Title": "Software / Sr. Software Engineer",
+      "Location": "Irvine, CA",
+      "Company": "Learfield",
+      "Url": "https://www.indeed.com/viewjob?jk=a741ef8b463aff95\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "Irvine, CA 92614",
+      "Company": "KakaoGames",
+      "Url": "https://www.indeed.com/viewjob?jk=0d245a4665d330e2\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Backend Engineer",
+      "Location": "Remote",
+      "Company": "Healthify.us",
+      "Url": "http://www.indeed.com/viewjob?jk=b17c354e3cabe4f1"
+    },
+    {
+      "Title": "Backend Engineer (Seller ClubNetwork Manager)",
+      "Location": "Remote",
+      "Company": "Tradeshift",
+      "Url": "https://www.indeed.com/viewjob?jk=830414c7fcd79650\u0026from=recjobs\u0026vjtk=1d0vtotigbr0h800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Irvine, CA",
+      "Company": "Perficient",
+      "Url": "https://www.indeed.com/viewjob?jk=ed55ab9fac6a8f7e\u0026from=recjobs\u0026vjtk=1d1spld9fbs56800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Lake Forest, CA",
+      "Company": "SimInsights",
+      "Url": "https://www.indeed.com/viewjob?jk=84909a2d2d6aeeaf\u0026from=recjobs\u0026vjtk=1d1spls9sbs55800"
+    },
+    {
+      "Title": "Java Technical Lead",
+      "Location": "Costa Mesa, CA",
+      "Company": "MASM",
+      "Url": "https://www.indeed.com/viewjob?jk=b903b77979519ee1\u0026from=recjobs\u0026vjtk=1d1spnva5bs56800"
+    },
+    {
+      "Title": "JAVA DEVELOPER",
+      "Location": "Irvine, CA",
+      "Company": "Ace Technologies",
+      "Url": "https://www.indeed.com/viewjob?jk=6e7d58a9d6fe80f9\u0026from=recjobs\u0026vjtk=1d1spnmbcbs56800"
+    },
+    {
+      "Title": "85$ per hour Java lead",
+      "Location": "Irvine, CA",
+      "Company": "ES Tech Corp",
+      "Url": "https://www.indeed.com/viewjob?jk=1d23c24778b73ceb\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": "Senior Software Engineer, Infotainment",
+      "Location": "Irvine, CA",
+      "Company": "Karma Automotive",
+      "Url": "https://www.indeed.com/viewjob?jk=db60b184de906f7a\u0026from=recjobs\u0026vjtk=1d1spq2h1bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer (Java Enterprise Systems)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Ephesoft",
+      "Url": "https://www.indeed.com/viewjob?jk=ddad3cedd3541de3\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": "Sr Software Engineer",
+      "Location": "Irvine, CA 92618",
+      "Company": "Parker Hannifin Corporation",
+      "Url": "https://www.indeed.com/viewjob?jk=5b935be46b5e0f9b\u0026from=recjobs\u0026vjtk=1d1sppen0bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer",
+      "Location": "Lake Forest, CA 92630",
+      "Company": "Panasonic Avionics",
+      "Url": "https://www.indeed.com/viewjob?jk=e5d02c6c09f8255c\u0026from=recjobs\u0026vjtk=1d1spppbsbs55800"
+    },
+    {
+      "Title": ".Net Developer",
+      "Location": "Irvine, CA",
+      "Company": "Arthur Lawrence",
+      "Url": "https://www.indeed.com/viewjob?jk=718ce1910c1a6c5e\u0026from=recjobs\u0026vjtk=1d1spqtbmbs56800"
+    },
+    {
+      "Title": ".Net / C# Applications Developer",
+      "Location": "Irvine, CA 92614",
+      "Company": "EDI Health Group - DentalXChange",
+      "Url": "https://www.indeed.com/viewjob?jk=831a6178fd244b06\u0026from=recjobs\u0026vjtk=1d1sprccvbs56800"
+    },
+    {
+      "Title": "Software Developer",
+      "Location": "Orange, CA",
+      "Company": "American Advisors Group",
+      "Url": "https://www.indeed.com/viewjob?jk=5fef728366010188\u0026from=recjobs\u0026vjtk=1d1sps9ajbs56800"
+    },
+    {
+      "Title": "Software Developer / Analyst",
+      "Location": "Orange, CA",
+      "Company": "Ashunya.com",
+      "Url": "https://www.indeed.com/viewjob?jk=9b98e618299c1064\u0026from=recjobs\u0026vjtk=1d1spsl7ibs55800"
+    },
+    {
+      "Title": "C# Software Developer",
+      "Location": "Irvine, CA",
+      "Company": "CBS Northstar",
+      "Url": "https://www.indeed.com/viewjob?jk=9d6032516ab2640e\u0026from=recjobs\u0026vjtk=1d1sprn68bs56800"
+    },
+    {
+      "Title": "Software Engineer1779",
+      "Location": "Irvine, CA 92617",
+      "Company": "Toshiba America Electronic Components",
+      "Url": "https://www.indeed.com/viewjob?jk=c747ee827b9c976f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Transportation Engineer with Development Services Focus",
+      "Location": "Orange, CA",
+      "Company": "Kittelson \u0026 Associates",
+      "Url": "https://www.indeed.com/viewjob?jk=73ed98571b74e05f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Java developer with MyBatis",
+      "Location": "Philadelphia, PA",
+      "Company": "SWIFT SOLUTIONS INC",
+      "Url": "https://www.indeed.com/viewjob?jk=36fda2403b89775c\u0026from=recjobs\u0026vjtk=1d1spug1cbs55800"
+    },
+    {
+      "Title": "Java developer",
+      "Location": "Philadelphia, PA",
+      "Company": "Cognizant",
+      "Url": "https://www.indeed.com/viewjob?jk=c8de3ced04059c0a\u0026from=recjobs\u0026vjtk=1d1spuko8bs56800"
+    },
+    {
+      "Title": "Software Engineer (PHP, Laravel)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Sourceability",
+      "Url": "https://www.indeed.com/cmp/Sourceability/jobs/Software-Engineer-1baa3aaac68a459b?vjs=3"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "San Francisco, CA 94108",
+      "Company": "MuleSoft",
+      "Url": "http://www.indeed.com/viewjob?jk=8cfd54301d909668"
+    },
+    {
+      "Title": "Java Developer (Consumer Web)",
+      "Location": "San Francisco, CA",
+      "Company": "Intechriti",
+      "Url": "http://www.indeed.com/viewjob?jk=38123d02e67210d9"
+    },
+    {
+      "Title": "Backend Engineer",
+      "Location": "Remote",
+      "Company": "Healthify.us",
+      "Url": "http://www.indeed.com/viewjob?jk=b17c354e3cabe4f1"
+    },
+    {
+      "Title": "Software / Sr. Software Engineer",
+      "Location": "Irvine, CA",
+      "Company": "Learfield",
+      "Url": "https://www.indeed.com/viewjob?jk=a741ef8b463aff95\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Backend Engineer (Seller ClubNetwork Manager)",
+      "Location": "Remote",
+      "Company": "Tradeshift",
+      "Url": "https://www.indeed.com/viewjob?jk=830414c7fcd79650\u0026from=recjobs\u0026vjtk=1d0vtotigbr0h800"
+    },
+    {
+      "Title": "Software Engineer",
+      "Location": "Irvine, CA 92614",
+      "Company": "KakaoGames",
+      "Url": "https://www.indeed.com/viewjob?jk=0d245a4665d330e2\u0026from=recjobs\u0026vjtk=1d1spi9ggbs56800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Irvine, CA",
+      "Company": "Perficient",
+      "Url": "https://www.indeed.com/viewjob?jk=ed55ab9fac6a8f7e\u0026from=recjobs\u0026vjtk=1d1spld9fbs56800"
+    },
+    {
+      "Title": "Java Developer",
+      "Location": "Lake Forest, CA",
+      "Company": "SimInsights",
+      "Url": "https://www.indeed.com/viewjob?jk=84909a2d2d6aeeaf\u0026from=recjobs\u0026vjtk=1d1spls9sbs55800"
+    },
+    {
+      "Title": "JAVA DEVELOPER",
+      "Location": "Irvine, CA",
+      "Company": "Ace Technologies",
+      "Url": "https://www.indeed.com/viewjob?jk=6e7d58a9d6fe80f9\u0026from=recjobs\u0026vjtk=1d1spnmbcbs56800"
+    },
+    {
+      "Title": "Java Technical Lead",
+      "Location": "Costa Mesa, CA",
+      "Company": "MASM",
+      "Url": "https://www.indeed.com/viewjob?jk=b903b77979519ee1\u0026from=recjobs\u0026vjtk=1d1spnva5bs56800"
+    },
+    {
+      "Title": "85$ per hour Java lead",
+      "Location": "Irvine, CA",
+      "Company": "ES Tech Corp",
+      "Url": "https://www.indeed.com/viewjob?jk=1d23c24778b73ceb\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": "Senior Software Engineer, Infotainment",
+      "Location": "Irvine, CA",
+      "Company": "Karma Automotive",
+      "Url": "https://www.indeed.com/viewjob?jk=db60b184de906f7a\u0026from=recjobs\u0026vjtk=1d1spq2h1bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer",
+      "Location": "Lake Forest, CA 92630",
+      "Company": "Panasonic Avionics",
+      "Url": "https://www.indeed.com/viewjob?jk=e5d02c6c09f8255c\u0026from=recjobs\u0026vjtk=1d1spppbsbs55800"
+    },
+    {
+      "Title": "Sr Software Engineer",
+      "Location": "Irvine, CA 92618",
+      "Company": "Parker Hannifin Corporation",
+      "Url": "https://www.indeed.com/viewjob?jk=5b935be46b5e0f9b\u0026from=recjobs\u0026vjtk=1d1sppen0bs55800"
+    },
+    {
+      "Title": "Senior Software Engineer (Java Enterprise Systems)",
+      "Location": "Irvine, CA 92618",
+      "Company": "Ephesoft",
+      "Url": "https://www.indeed.com/viewjob?jk=ddad3cedd3541de3\u0026from=recjobs\u0026vjtk=1d1spoaubbs56800"
+    },
+    {
+      "Title": ".Net Developer",
+      "Location": "Irvine, CA",
+      "Company": "Arthur Lawrence",
+      "Url": "https://www.indeed.com/viewjob?jk=718ce1910c1a6c5e\u0026from=recjobs\u0026vjtk=1d1spqtbmbs56800"
+    },
+    {
+      "Title": ".Net / C# Applications Developer",
+      "Location": "Irvine, CA 92614",
+      "Company": "EDI Health Group - DentalXChange",
+      "Url": "https://www.indeed.com/viewjob?jk=831a6178fd244b06\u0026from=recjobs\u0026vjtk=1d1sprccvbs56800"
+    },
+    {
+      "Title": "C# Software Developer",
+      "Location": "Irvine, CA",
+      "Company": "CBS Northstar",
+      "Url": "https://www.indeed.com/viewjob?jk=9d6032516ab2640e\u0026from=recjobs\u0026vjtk=1d1sprn68bs56800"
+    },
+    {
+      "Title": "Software Developer",
+      "Location": "Orange, CA",
+      "Company": "American Advisors Group",
+      "Url": "https://www.indeed.com/viewjob?jk=5fef728366010188\u0026from=recjobs\u0026vjtk=1d1sps9ajbs56800"
+    },
+    {
+      "Title": "Software Developer / Analyst",
+      "Location": "Orange, CA",
+      "Company": "Ashunya.com",
+      "Url": "https://www.indeed.com/viewjob?jk=9b98e618299c1064\u0026from=recjobs\u0026vjtk=1d1spsl7ibs55800"
+    },
+    {
+      "Title": "Transportation Engineer with Development Services Focus",
+      "Location": "Orange, CA",
+      "Company": "Kittelson \u0026 Associates",
+      "Url": "https://www.indeed.com/viewjob?jk=73ed98571b74e05f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Software Engineer1779",
+      "Location": "Irvine, CA 92617",
+      "Company": "Toshiba America Electronic Components",
+      "Url": "https://www.indeed.com/viewjob?jk=c747ee827b9c976f\u0026from=recjobs\u0026vjtk=1d1spsuo5bs56800"
+    },
+    {
+      "Title": "Java developer with MyBatis",
+      "Location": "Philadelphia, PA",
+      "Company": "SWIFT SOLUTIONS INC",
+      "Url": "https://www.indeed.com/viewjob?jk=36fda2403b89775c\u0026from=recjobs\u0026vjtk=1d1spug1cbs55800"
+    },
+    {
+      "Title": "Java developer",
+      "Location": "Philadelphia, PA",
+      "Company": "Cognizant",
+      "Url": "https://www.indeed.com/viewjob?jk=c8de3ced04059c0a\u0026from=recjobs\u0026vjtk=1d1spuko8bs56800"
+    }
+  ]
+}
